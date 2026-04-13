@@ -11,10 +11,10 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/SLBY8/LM-DETR"><img src="https://img.shields.io/badge/Python-3.10+-blue?logo=github" /></a>
-<a href="https://github.com/SLBY8/LM-DETR"><img src="https://img.shields.io/badge/Pytorch-2.3+-red?
-<a href="https://github.com/SLBY8/LM-DETR"><img src="https://img.shields.io/badge/哔哩哔哩-小康2022-pink?logo=bilibili" /></a>
-<img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<a href="https://github.com/SLBY8/LM-DETR"><img src="https://img.shields.io/badge/Pytorch-2.3+-red?logo=github/></a>
+<a href="https://github.com/Intellindust-AI-Lab/DEIM"><img src="https://img.shields.io/badge/DEIM-2025-pink?logo=github" /></a>
+<img src="https://img.shields.io/badge/VisDrone-2019-green?logo=tencentqq" />
+<!-- https://github.com/VisDrone/VisDrone-Dataset -->
 <img src="https://komarev.com/ghpvc/?username=Xiaokang2022&abbreviated=true&color=yellow" />
 </p>
  
